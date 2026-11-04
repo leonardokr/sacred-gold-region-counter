@@ -1,0 +1,12 @@
+bin/
+*.obj
+*.exp
+*.lib
+*.dll
+*.log
+*.ini
+
+.vs/
+*.user
+*.suo
+
